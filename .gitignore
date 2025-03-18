@@ -16,9 +16,16 @@ dist/
 # Environment variables
 .env
 .env.local
+.env.development
 .env.development.local
+.env.test
 .env.test.local
+.env.production
 .env.production.local
+
+# But allow example files
+!.env.*.example
+!.env.example
 
 # Vercel
 .vercel/
@@ -44,4 +51,6 @@ coverage/
 *.tsbuildinfo
 .idea/
 .vscode/
-tmp/ 
+tmp/
+__pycache__/
+.pytest_cache/ 
