@@ -1,6 +1,7 @@
 # WearHouse
 
 WearHouse is a web application that allows university students to buy, sell, and trade second-hand clothing exclusively within their university community. The platform promotes sustainable fashion, reduces waste, and provides students with an affordable way to refresh their wardrobes.
+Currently a work in progress but can be viewed here: https://wearhouse-o4etgg61p-abaans-projects-c6a7a901.vercel.app
 
 ## Features
 
